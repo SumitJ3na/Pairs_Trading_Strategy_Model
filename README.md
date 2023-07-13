@@ -10,3 +10,7 @@ The code processes historical price data of Nifty and Bank Nifty, calculates the
 The code then executes the pairs trading strategy by tracking entry and exit points based on specific Z-score thresholds. It calculates the profit or loss for each trade and maintains a cumulative PNL (profit and loss) to track the overall profitability of the strategy. Additionally, the code performs rolling mean calculations and displays the Z-score DataFrame, PNL DataFrame, and cumulative PNL graph to visualize the strategy's performance.
 
 Overall, this code is a simplified implementation of a pairs trading strategy between Nifty and Bank Nifty, aiming to identify profit opportunities based on the relative price movements of these two indices.
+
+Link for the dataset is provided below:
+Nifty50: https://drive.google.com/file/d/15CBEDtG0IiF36XV48XivHmNiA6v7Gvc2/view?usp=sharing
+BankNiftyNew: https://drive.google.com/file/d/1cRZzo9BfbKu9kJTy-s_542YACc5CWMwL/view?usp=sharing
